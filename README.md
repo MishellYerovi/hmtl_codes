@@ -1,5 +1,5 @@
 # hmtl_codes
-
+[![hero-ch.png](https://i.postimg.cc/CMtVR8Hv/hero-ch.png)](https://postimg.cc/t7hcfYcP)
 <!-- ====== SLIDE 1 ====== -->
 <div class="hero-slide active"
   style="background-image: url('https://images.pexels.com/photos/3419706/pexels-photo-3419706.jpeg?auto=compress&cs=tinysrgb&w=1600');">
